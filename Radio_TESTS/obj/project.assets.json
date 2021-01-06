@@ -1226,13 +1226,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Radio_WPF_Project/1.0.0": {
+      "Radio_Code/1.0.0": {
         "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Radio_WPF_Project.dll": {}
+          "bin/placeholder/Radio_Code.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Radio_WPF_Project.dll": {}
+          "bin/placeholder/Radio_Code.dll": {}
         }
       }
     }
@@ -4623,10 +4624,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Radio_WPF_Project/1.0.0": {
+    "Radio_Code/1.0.0": {
       "type": "project",
-      "path": "../Radio_WPF_Project/Radio_WPF_Project.csproj",
-      "msbuildProject": "../Radio_WPF_Project/Radio_WPF_Project.csproj"
+      "path": "../Radio_Code/Radio_Code.csproj",
+      "msbuildProject": "../Radio_Code/Radio_Code.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4634,7 +4635,7 @@
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
-      "Radio_WPF_Project >= 1.0.0"
+      "Radio_Code >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4643,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Project\\Radio_TESTS\\Radio_TESTS.csproj",
-      "projectName": "Radio_TESTS",
-      "projectPath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Project\\Radio_TESTS\\Radio_TESTS.csproj",
+      "projectUniqueName": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Application\\Radio_Tests\\Radio_Tests.csproj",
+      "projectName": "Radio_Tests",
+      "projectPath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Application\\Radio_Tests\\Radio_Tests.csproj",
       "packagesPath": "C:\\Users\\otomk\\.nuget\\packages\\",
-      "outputPath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Project\\Radio_TESTS\\obj\\",
+      "outputPath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Application\\Radio_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\otomk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4663,8 +4664,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Project\\Radio_WPF_Project\\Radio_WPF_Project.csproj": {
-              "projectPath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Project\\Radio_WPF_Project\\Radio_WPF_Project.csproj"
+            "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Application\\Radio_Code\\Radio_Code.csproj": {
+              "projectPath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Application\\Radio_Code\\Radio_Code.csproj"
             }
           }
         }

@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Background 2.jpg" />
+    <None Remove="Assets\BBC 1.jpg" />
+    <None Remove="Assets\BBC 2.jpg" />
+    <None Remove="Assets\BBC 3.jpg" />
+    <None Remove="Assets\BBC 4.jpg" />
+    <None Remove="Assets\Button - Off.jpg" />
+    <None Remove="Assets\Button - On.jpg" />
+    <None Remove="Assets\New Wave.png" />
+    <None Remove="Assets\Play Button.png" />
+    <None Remove="Assets\Smooth Hits.jpg" />
+    <None Remove="Assets\Stop Button.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Radio_Code\Radio_Code.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Background 2.jpg" />
+    <Resource Include="Assets\BBC 1.jpg" />
+    <Resource Include="Assets\BBC 2.jpg" />
+    <Resource Include="Assets\BBC 3.jpg" />
+    <Resource Include="Assets\BBC 4.jpg" />
+    <Resource Include="Assets\Button - Off.jpg" />
+    <Resource Include="Assets\Button - On.jpg" />
+    <Resource Include="Assets\New Wave.png" />
+    <Resource Include="Assets\Play Button.png" />
+    <Resource Include="Assets\Smooth Hits.jpg" />
+    <Resource Include="Assets\Stop Button.png" />
+  </ItemGroup>
+
+</Project>
