@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kyrr7ar+AV6pH0qmw/HkepDQ2GRHpifGZjUENoQKYQmdADdjrp0YV2P4TfcW9bjfV9TTccIYvj7/opVSCwXCxg==",
+  "dgSpecHash": "SL7f+4Sw3h4vGDPZE0xpH3MIofYlwj4S2v49LmrsbiwwB0mMFezXg/5WfTZVu7l3xR86vwjbekfEz8FWwmihDA==",
   "success": true,
-  "projectFilePath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Project\\Radio_TESTS\\Radio_TESTS.csproj",
+  "projectFilePath": "C:\\Career\\Sparta Global\\Academy\\Labs\\Eng73\\2 - OOP\\Lab_02_Radio_Project\\Radio_Application\\Radio_Tests\\Radio_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\otomk\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\otomk\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
